@@ -1,0 +1,19 @@
+{
+  "name": "udcr",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "andreykrupskii <andreykrupskii@gitlab.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
